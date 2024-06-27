@@ -2,7 +2,7 @@
 
 ### Setup:
 
-**You must have installed: > python***
+**You must have installed: python 3.12 or above**
 
 ```
 cd jewellery
